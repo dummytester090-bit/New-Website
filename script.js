@@ -15,14 +15,14 @@
 
   // Your Firebase Configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyABmvstHvZ6LBMo9SH5UyveHsnEVhZoF7U",
-    authDomain: "halurea.firebaseapp.com",
-    databaseURL: "https://halurea.firebaseio.com",
-    projectId: "halurea",
-    storageBucket: "halurea.firebasestorage.app",
-    messagingSenderId: "121957370120",
-    appId: "1:121957370120:web:12511e70643a6fbebfc4bd",
-    measurementId: "G-8HH3LLPMH5"
+    apiKey: "AIzaSyCIaeNa81nbHhBNyJeBG_IWR-LhJNUjRvg",
+    authDomain: "halurea1.firebaseapp.com",
+    databaseURL: "https://halurea1.firebaseio.com",
+    projectId: "halurea1",
+    storageBucket: "halurea1.firebasestorage.app",
+    messagingSenderId: "216574232987",
+    appId: "1:216574232987:web:fd4968243045e25505f93e",
+    measurementId: "G-GS3ZZYM5KH"
   };
 
   // Initialize Firebase
